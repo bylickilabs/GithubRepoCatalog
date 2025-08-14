@@ -3,7 +3,7 @@
 **Author:** ©Thorsten Bylicki | ©BYLICKILABS  
 **Version:** 1.0.0
 
-A cross-platform Python application with GUI for cataloging, searching, and archiving local GitHub repositories – now with multilingual UI (DE/EN) and integrated image preview from `assets/` folders.
+A cross-platform Python application with GUI for cataloging, searching, and archiving local GitHub repositories – now with multilingual UI (DE/EN), integrated DB, and image preview from `assets/` folders.
 
 ---
 
