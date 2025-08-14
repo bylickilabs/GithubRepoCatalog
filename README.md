@@ -8,12 +8,12 @@ A cross-platform Python application with GUI for cataloging, searching, and arch
 ---
 
 ## 📑 Table of Contents
-[Features](#features)
-[Installation](#installation)
-[Usage](#usage)
-[Image Preview](#image-preview)
-[Language Support](#language-support)
-[License](#license)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Image Preview](#image-preview)
+- [Language Support](#language-support)
+- [License](#license)
 
 ---
 
