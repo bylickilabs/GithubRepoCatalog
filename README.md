@@ -76,4 +76,6 @@ python app.py
 
 ## Lizenz
 ©Thorsten Bylicki | ©BYLICKILABS
-[LICENSE](LICENSE)
+
+|[LICENSE](LICENSE)|
+|---|
