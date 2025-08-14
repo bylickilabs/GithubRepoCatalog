@@ -68,8 +68,8 @@ python app.py
 ---
 
 ## Language Support
-- **German** (default)
-- **English**
+- **English** (default)
+- **German**
 - Language switch is instant; all UI elements update live.
 
 ---
